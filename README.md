@@ -17,21 +17,22 @@ l'embauche.**\
 
 La dataset contient les colonnes suivantes :
 
-  Colonne        Description
-  -------------- --------------------------------------------------------------------------
-  `date`         Date d'enregistrement du candidat
-  `cheveux`      Couleur des cheveux
-  `age`          Âge du candidat
-  `exp`          Années d'expérience
-  `salaire`      Salaire souhaité
-  `sexe`         Sexe (M/F)
-  `diplome`      Niveau d'étude
-  `specialite`   Spécialité (géologie, forage, etc.)
-  `note`         Évaluation du candidat
-  `dispo`        Disponibilité (oui / non)
-  `embauche`     1 = embauché, 0 = non
+| Colonne      | Description |
+|--------------|-------------|
+| `date`       | Date d'enregistrement du candidat |
+| `cheveux`    | Couleur des cheveux |
+| `age`        | Âge du candidat |
+| `exp`        | Années d'expérience |
+| `salaire`    | Salaire souhaité |
+| `sexe`       | Sexe (M/F) |
+| `diplome`    | Niveau d'étude |
+| `specialite` | Spécialité (géologie, forage, etc.) |
+| `note`       | Évaluation du candidat |
+| `dispo`      | Disponibilité (oui / non) |
+| `embauche`   | 1 = embauché, 0 = non |
 
-------------------------------------------------------------------------
+---
+
 
 ## 🎯 Objectifs de l'analyse
 
