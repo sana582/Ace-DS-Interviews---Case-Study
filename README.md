@@ -80,8 +80,7 @@ La dataset contient les colonnes suivantes :
     📦 analyse-candidats
      ┣ 📂 data
      ┃ ┗ candidats.csv
-     ┣ 📂 notebooks
-     ┃ ┗ analyse.ipynb
+     ┣ analyse.ipynb
      ┣ 📂 outputs
      ┃ ┣ graphiques/
      ┃ ┗ rapports/
