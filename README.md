@@ -12,6 +12,11 @@ l'embauche.**\
 2. **Quel est le profil général des candidats.**
 
 ------------------------------------------------------------------------
+## 📎 Source de la base de données
+
+La base de données originale est disponible sur Kaggle :
+
+🔗 **[Applicants for a Gold Digger Position – Dataset](https://www.kaggle.com/datasets/bryanb/applicants-for-a-gold-digger-position/data)**
 
 ## 📂 Contenu de la base de données
 
