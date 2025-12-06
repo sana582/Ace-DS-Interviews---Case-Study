@@ -79,5 +79,6 @@ La dataset contient les colonnes suivantes :
      ┣ 📂 data
      ┃ ┗ candidats.csv
      ┣ analyse.ipynb
+     ┣ 📂 outputs
      ┣ README.md
      ┗ requirements.txt
