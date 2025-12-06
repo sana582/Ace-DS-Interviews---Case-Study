@@ -43,17 +43,15 @@ La dataset contient les colonnes suivantes :
 
 ### 1️⃣ Analyse des facteurs liés à l'embauche
 
--   Étudier l'impact de : âge, expérience, note, salaire, spécialité,
-    diplôme, sexe, disponibilité.
--   Visualiser les différences entre candidats embauchés et non
-    embauchés.
+-   Étudier l'impact de : âge, expérience, note, salaire, spécialité,diplôme, sexe, disponibilité.
+-   Visualiser les différences entre candidats embauchés et non embauchés.
 
 ### 2️⃣ Profil général des candidats
 
 -   Statistiques descriptives.
 -   Répartition des diplômes, sexes, couleurs de cheveux et spécialités.
 -   Analyse des distributions des variables clés.
--   Nettoyage et traitement des données manquantes.
+
 
 ------------------------------------------------------------------------
 
@@ -81,8 +79,5 @@ La dataset contient les colonnes suivantes :
      ┣ 📂 data
      ┃ ┗ candidats.csv
      ┣ analyse.ipynb
-     ┣ 📂 outputs
-     ┃ ┣ graphiques/
-     ┃ ┗ rapports/
      ┣ README.md
      ┗ requirements.txt
