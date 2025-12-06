@@ -18,7 +18,7 @@ l'embauche.**\
 La dataset contient les colonnes suivantes :
 
   Colonne        Description
-  -------------- -------------------------------------
+  -------------- --------------------------------------------------------------------------
   `date`         Date d'enregistrement du candidat
   `cheveux`      Couleur des cheveux
   `age`          Âge du candidat
@@ -38,34 +38,34 @@ La dataset contient les colonnes suivantes :
 ### 1️⃣ Analyse des facteurs liés à l'embauche
 
 -   Étudier l'impact de : âge, expérience, note, salaire, spécialité,
-    diplôme, sexe, disponibilité\
+    diplôme, sexe, disponibilité.
 -   Visualiser les différences entre candidats embauchés et non
     embauchés.
 
 ### 2️⃣ Profil général des candidats
 
--   Statistiques descriptives\
--   Répartition des diplômes, sexes, couleurs de cheveux et spécialités\
--   Analyse des distributions des variables clés\
--   Nettoyage et traitement des données manquantes
+-   Statistiques descriptives.
+-   Répartition des diplômes, sexes, couleurs de cheveux et spécialités.
+-   Analyse des distributions des variables clés.
+-   Nettoyage et traitement des données manquantes.
 
 ------------------------------------------------------------------------
 
 ## 🛠️ Technologies utilisées
 
--   Python 3\
--   Pandas\
--   NumPy\
--   Matplotlib / Seaborn\
+-   Python 3
+-   Pandas
+-   NumPy
+-   Matplotlib / Seaborn
 -   Jupyter Notebook
 
 ------------------------------------------------------------------------
 
 ## 🚀 Résultats attendus
 
--   Compréhension des critères d'embauche\
--   Profil général des candidats\
--   Visualisations et rapports\
+-   Compréhension des critères d'embauche
+-   Profil général des candidats
+-   Visualisations et rapports
 
 ------------------------------------------------------------------------
 
